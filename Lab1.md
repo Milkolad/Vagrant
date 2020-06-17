@@ -1,2 +1,2 @@
-!(https://https://github.com/Milkolad/Vagrant/edit/master/1.jpg)
+!(https://github.com/Milkolad/Vagrant/blob/master/1.jpg)
 
